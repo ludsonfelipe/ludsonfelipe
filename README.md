@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ludson Felipe Fróes</h1>
+<h1 align="center">Hi 👋, Ludson Fróes here</h1>
 <h3 align="center">a Brazilian passionate about data and what data can do</h3>
 
 - 🔭 I’m currently working at **Falqon**
