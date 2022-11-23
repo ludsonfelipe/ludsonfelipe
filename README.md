@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, Ludson Fróes here</h1>
 <h3 align="center">a Brazilian passionate about data and what data can do</h3>
 
-- 🔭 I’m currently working at **Falqon**
+- 🔭 I’m currently working at **MOL**
 
-- 🌱 I’m currently learning **AWS and other clouds**
+- 🌱 I’m currently learning **GCP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ludsonfelipe/data_projects](https://github.com/ludsonfelipe/data_projects)
 
