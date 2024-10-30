@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **GCP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ludsonfelipe/data_projects](https://github.com/ludsonfelipe/data_projects)
-
 - 📫 How to reach me **froesdata@gmail.com**
 
 - ⚡ Fun fact **I created my first website at 10 years old**
