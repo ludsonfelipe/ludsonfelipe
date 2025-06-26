@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, Ludson Fróes here</h1>
 <h3 align="center">a Brazilian passionate about data and what data can do</h3>
 
-- 🔭 I’m currently working at **MOL**
-
 - 📫 How to reach me **froesdata@gmail.com**
 
 - ⚡ Fun fact **I created my first website at 10 years old**
